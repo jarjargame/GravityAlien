@@ -1,0 +1,20 @@
+【ゲームクレジット】
+
+音楽・効果音:
+- "SFチックなのんびりBGM：宇宙遊泳" by 250R（ニコマルライダー） 様
+　(https://commons.nicovideo.jp/works/nc105042)　　　　　　　 　
+- "UIメニュー的なSE。SF機械っぽいピッ音" by ユウキチ 様　　　　　　　
+　(https://commons.nicovideo.jp/works/nc315489)　　　　　　フォント:
+- "【効果音】電子音01・SF系" by Chiaki 様　　　　　　　　　　　　- "マルモニカ" by 患者長ひっく様 
+　(https://commons.nicovideo.jp/works/nc257692)　　　　　　　(https://hicchicc.github.io/00ff/)
+- "【効果音】びっくり" by tces 様
+　(https://commons.nicovideo.jp/works/nc173781)　　　　　　グラフィック:　　　　
+- "ボォンッ（爆発音" by riru 様　　　　　　　　　　　　　　　　　- Microsoft 様の Image Creator より 生成
+　(https://commons.nicovideo.jp/works/nc278397)　　　　　　　(https://www.bing.com/images/create)
+- "機械ダメージ音" by outerkey 様
+　(https://commons.nicovideo.jp/works/nc99707)　　　　　　　その他:- ゲームエンジン: Pygame (https://www.pygame.org/)
+
+このゲーム制作において使用させていただいた素晴らしい音楽、効果音、グラフィック、およびフォントに深く感謝いたします。
+制作者の皆様に心より感謝いたします。
+
+© 2023 じゃーじゃー
